@@ -11,7 +11,7 @@ A python script that counts the number of music files in a directory
 
 ## Usage:
  - python counter.py directory-name
- 	e.g: python counter.py /home/root/Music
+ -- e.g: python counter.py /home/root/Music
 
 ## Options:
  - '-h' or '--help': Displays the help options.
